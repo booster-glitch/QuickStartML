@@ -1,0 +1,7 @@
+sidebar:
+  - type: "sub_heading"
+    value: "Welcome to QuickStartML"
+  - type: "checkbox"
+    label: "Enable feature"
+    variable_name: "enable_feature"
+    default: true
